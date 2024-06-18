@@ -2,21 +2,6 @@
 
 Note Down is fully functional and robust notes taking app which allows user to store and access all notes and important information digitally, usually in a cloud based database storage system. React is used for fronted design,The authentication is powered by JWT and local storage is being implemented so that the user won't have login again and again and the Node.js and Express.js backend use MongoDB as database to save, delete and update the notes.
 
-## Screenshorts
-
-### Login and Register
-
-![Login-Register](https://i.imgur.com/H2TbCjE.png)
-
-### Home
-![Home](https://i.imgur.com/TMGfk0r.png)
-
-### Add Note
-![create-note](https://i.imgur.com/WWQFwdn.png)
-
-### Edit Note
-![Edit](https://i.imgur.com/SZyFYzj.png)
-
 <h2>QuickStart</h2>
 
 - Open your terminal and run the command
